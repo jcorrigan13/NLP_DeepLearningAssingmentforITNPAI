@@ -1,4 +1,3 @@
-Deep learning assingment using NLP.
 # ITNPAI1 Assignment – Comparative Evaluation of BERT and RoBERTa for Sentiment Classification
 
 ## Overview
@@ -15,6 +14,13 @@ The task is binary sentiment classification.
 ## Datasets
 - IMDB dataset loaded from Hugging Face
 - TripAdvisor Hotel Reviews dataset downloaded from Kaggle
+  Datasets used:
+
+1. IMDB Movie Review Dataset
+https://huggingface.co/datasets/stanfordnlp/imdb
+
+2. TripAdvisor Hotel Reviews
+https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
 
 ## How to run
 1. Install the required libraries.
